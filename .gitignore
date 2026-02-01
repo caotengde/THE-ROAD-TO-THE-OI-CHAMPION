@@ -1,0 +1,33 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+a.out
+test*
+problem1
+problem2
+problem3
+problem4
+problem5
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
