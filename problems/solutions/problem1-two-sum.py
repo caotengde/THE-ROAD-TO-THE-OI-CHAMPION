@@ -20,4 +20,7 @@ nums = list(map(int, input().split()))
 
 # 求解
 result = two_sum(nums, target)
-print(result[0], result[1])
+if result:
+    print(result[0], result[1])
+else:
+    print("No solution found")

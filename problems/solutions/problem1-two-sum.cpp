@@ -30,5 +30,7 @@ int main() {
         hash[nums[i]] = i;
     }
     
+    // No solution found (should not happen per problem constraints)
+    cout << "No solution found" << endl;
     return 0;
 }
